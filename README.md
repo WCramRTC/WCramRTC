@@ -1,6 +1,7 @@
 # Welcome to my note and assignment, Repositories! 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WCramRTC&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WCramRTC)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there! I'm William Cram, a professor at Renton Technical College, instructional designer, and lover of building things. Here, you will find any notes created during my live lectures.
 
