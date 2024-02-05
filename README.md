@@ -7,7 +7,7 @@ Hi there! I'm William Cram, a professor at Renton Technical College, instruction
 - 👨‍💻 Currently working on creating content for Programming Fundamentals, Programming OOP, and Data Structures and Algorithms
 - 🌱 Learning, always
 - 💬 Ask me about education, programming, and game development
-- 📫 How to reach me: ![William Cram - LinkedIn](https://www.linkedin.com/in/william-cram/)
+- 📫 How to reach me: [William Cram - LinkedIn](https://www.linkedin.com/in/william-cram/)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I've made cheese for a living and worked with a grant award-winning team of talented individuals where I animated and programmed purring cats in VR.
 
