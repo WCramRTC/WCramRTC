@@ -1,15 +1,15 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to my note and assignment, Repositories! 👋
 
-Hi there! I'm [Your Name], a [Your Job Title/Role] with a passion for [Your Interests]. I specialize in [Your Specialization], and I love working on projects that [What You Love About Your Projects].
+Hi there! I'm William Cram, a professor at Renton Technical College, instructional designer, and lover of building things. Here, you will find any notes created during my live lectures.
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working on [Project or Company Name]
-- 🌱 Learning [What You're Learning]
-- 💬 Ask me about [Topics You're Comfortable Discussing]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 👨‍💻 Currently working on creating content for Programming Fundamentals, Programming OOP, and Data Structures and Algorithms
+- 🌱 Learning, always
+- 💬 Ask me about education, programming, and game development
+- 📫 How to reach me: ![William Cram - LinkedIn](https://www.linkedin.com/in/william-cram/)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I've made cheese for a living and worked with a grant award-winning team of talented individuals where I animated and programmed purring cats in VR.
 
 ## 🔧 Technologies & Tools
 
